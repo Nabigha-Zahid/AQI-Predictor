@@ -1,0 +1,19 @@
+{
+    "city": "Lahore",
+    "timestamp": "2026-08-13T20:39:16.288147",
+    "latitude": 31.5497,
+    "longitude": 74.3436,
+    "temperature": 30.99,
+    "humidity": 79,
+    "pressure": 999,
+    "wind_speed": 1.03,
+    "aqi": 2,
+    "co": 445.44,
+    "no": 0.01,
+    "no2": 11.68,
+    "o3": 49.09,
+    "so2": 1.53,
+    "pm2_5": 24.61,
+    "pm10": 38.19,
+    "nh3": 4.25
+}

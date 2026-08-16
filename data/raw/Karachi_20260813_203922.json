@@ -1,0 +1,19 @@
+{
+    "city": "Karachi",
+    "timestamp": "2026-08-13T20:39:22.654858",
+    "latitude": 24.9056,
+    "longitude": 67.0822,
+    "temperature": 28.9,
+    "humidity": 65,
+    "pressure": 1003,
+    "wind_speed": 8.23,
+    "aqi": 3,
+    "co": 70.76,
+    "no": 0,
+    "no2": 0.08,
+    "o3": 40.6,
+    "so2": 0.4,
+    "pm2_5": 14.21,
+    "pm10": 57.69,
+    "nh3": 0
+}
